@@ -1,0 +1,11 @@
+C:\Users\alumnoFI\source\repos\Dominio\UI\bin\Debug\UI.exe.config
+C:\Users\alumnoFI\source\repos\Dominio\UI\bin\Debug\UI.exe
+C:\Users\alumnoFI\source\repos\Dominio\UI\bin\Debug\UI.pdb
+C:\Users\alumnoFI\source\repos\Dominio\UI\bin\Debug\Dominio.dll
+C:\Users\alumnoFI\source\repos\Dominio\UI\bin\Debug\Dominio.pdb
+C:\Users\alumnoFI\source\repos\Dominio\UI\obj\Debug\UI.csproj.AssemblyReference.cache
+C:\Users\alumnoFI\source\repos\Dominio\UI\obj\Debug\UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\alumnoFI\source\repos\Dominio\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache
+C:\Users\alumnoFI\source\repos\Dominio\UI\obj\Debug\UI.csproj.CopyComplete
+C:\Users\alumnoFI\source\repos\Dominio\UI\obj\Debug\UI.exe
+C:\Users\alumnoFI\source\repos\Dominio\UI\obj\Debug\UI.pdb
